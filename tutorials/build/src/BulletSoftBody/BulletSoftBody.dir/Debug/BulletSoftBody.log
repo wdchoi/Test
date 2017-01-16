@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/Choi/Desktop/bullet3-master/src/BulletSoftBody/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Choi\Desktop\tutorials\build\src\BulletSoftBody\CMakeFiles\generate.stamp is up-to-date.
+  btSoftBody.cpp
+C:\Users\Choi\Desktop\bullet3-master\src\BulletSoftBody\btSoftBody.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+C:\Users\Choi\Desktop\bullet3-master\src\BulletSoftBody\btSoftBodyHelpers.cpp(555): warning C4316: 'btSoftBody::Link': object allocated on the heap may not be aligned 16
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+  btSoftMultiBodyDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btDefaultSoftBodySolver.cpp
+  Generating Code...
+  BulletSoftBody.vcxproj -> C:\Users\Choi\Desktop\tutorials\build\lib\Debug\BulletSoftBody_Debug.lib

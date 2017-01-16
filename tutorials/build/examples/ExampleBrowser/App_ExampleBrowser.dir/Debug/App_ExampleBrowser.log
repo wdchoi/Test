@@ -1,0 +1,3 @@
+﻿  ConstraintDemo.cpp
+C:\Users\Choi\Desktop\bullet3-master\examples\Constraints\ConstraintDemo.cpp(886): warning C4316: 'AllConstraintDemo': object allocated on the heap may not be aligned 16
+  App_ExampleBrowser.vcxproj -> C:\Users\Choi\Desktop\tutorials\build\examples\ExampleBrowser\Debug\App_ExampleBrowser.exe

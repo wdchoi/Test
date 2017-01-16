@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/Choi/Desktop/bullet3-master/Extras/GIMPACTUtils/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Choi\Desktop\tutorials\build\Extras\GIMPACTUtils\CMakeFiles\generate.stamp is up-to-date.
+  btGImpactConvexDecompositionShape.cpp
+c:\users\choi\desktop\bullet3-master\extras\gimpactutils\btGImpactConvexDecompositionShape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\Choi\Desktop\bullet3-master\src\BulletCollision/Gimpact/btGImpactShape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  GIMPACTUtils.vcxproj -> C:\Users\Choi\Desktop\tutorials\build\lib\Debug\GIMPACTUtils_Debug.lib

@@ -1,0 +1,24 @@
+﻿  Building Custom Rule C:/Users/Choi/Desktop/bullet3-master/examples/OpenGLWindow/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Choi\Desktop\tutorials\build\examples\OpenGLWindow\CMakeFiles\generate.stamp is up-to-date.
+  glew.c
+  Win32OpenGLWindow.cpp
+  Win32Window.cpp
+  GLInstancingRenderer.cpp
+  GLPrimitiveRenderer.cpp
+C:\Users\Choi\Desktop\bullet3-master\examples\OpenGLWindow\GLPrimitiveRenderer.cpp(505): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Choi\Desktop\bullet3-master\examples\OpenGLWindow\GLPrimitiveRenderer.cpp(525): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  GLRenderToTexture.cpp
+  LoadShader.cpp
+  OpenSans.cpp
+  SimpleCamera.cpp
+  SimpleOpenGL2App.cpp
+c:\users\choi\desktop\bullet3-master\examples\openglwindow\TwFonts.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  SimpleOpenGL2Renderer.cpp
+  SimpleOpenGL3App.cpp
+c:\users\choi\desktop\bullet3-master\examples\openglwindow\TwFonts.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  TwFonts.cpp
+c:\users\choi\desktop\bullet3-master\examples\openglwindow\TwFonts.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  fontstash.cpp
+  opengl_fontstashcallbacks.cpp
+  Generating Code...
+  OpenGLWindow.vcxproj -> C:\Users\Choi\Desktop\tutorials\build\lib\Debug\OpenGLWindow_Debug.lib

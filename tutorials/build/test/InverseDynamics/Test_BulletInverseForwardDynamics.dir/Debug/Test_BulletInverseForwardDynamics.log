@@ -1,0 +1,62 @@
+﻿  Building Custom Rule C:/Users/Choi/Desktop/bullet3-master/test/InverseDynamics/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Choi\Desktop\tutorials\build\test\InverseDynamics\CMakeFiles\generate.stamp is up-to-date.
+  test_invdyn_bullet.cpp
+C:\Users\Choi\Desktop\bullet3-master\test\InverseDynamics\test_invdyn_bullet.cpp(49): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  b3ResourcePath.cpp
+  MyMultiBodyCreator.cpp
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(65): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(148): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(172): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+  BulletUrdfImporter.cpp
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\BulletUrdfImporter.cpp(74): warning C4316: 'BulletURDFInternalData': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\BulletUrdfImporter.cpp(122): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\BulletUrdfImporter.cpp(174): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  urdfStringSplit.cpp
+  UrdfParser.cpp
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(539): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(572): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1321): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1344): warning C4316: 'UrdfLink': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1392): warning C4316: 'UrdfJoint': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1480): warning C4316: 'UrdfModel': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1516): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1539): warning C4316: 'UrdfLink': object allocated on the heap may not be aligned 16
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1587): warning C4316: 'UrdfJoint': object allocated on the heap may not be aligned 16
+  URDF2Bullet.cpp
+  b3ImportMeshUtility.cpp
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportMeshUtility\b3ImportMeshUtility.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  stb_image.cpp
+  b3Clock.cpp
+  btBulletWorldImporter.cpp
+C:\Users\Choi\Desktop\bullet3-master\src\BulletCollision/Gimpact/btGImpactShape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  btWorldImporter.cpp
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1000): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1004): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1007): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1327): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1330): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1334): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1337): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+  bChunk.cpp
+  bFile.cpp
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletFileLoader\bFile.cpp(1288): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletFileLoader\bFile.cpp(1306): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\Choi\Desktop\bullet3-master\Extras\Serialize\BulletFileLoader\bFile.cpp(1487): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'void *const '
+  bDNA.cpp
+  btBulletFile.cpp
+  Wavefront2GLInstanceGraphicsShape.cpp
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(79): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Choi\Desktop\bullet3-master\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  LoadMeshFromObj.cpp
+  LoadMeshFromCollada.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+  Compiling...
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Generating Code...
+  Test_BulletInverseForwardDynamics.vcxproj -> C:\Users\Choi\Desktop\tutorials\build\test\InverseDynamics\Debug\Test_BulletInverseForwardDynamics.exe

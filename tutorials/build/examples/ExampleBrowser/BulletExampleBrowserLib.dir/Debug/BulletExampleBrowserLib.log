@@ -1,0 +1,22 @@
+﻿  Building Custom Rule C:/Users/Choi/Desktop/bullet3-master/examples/ExampleBrowser/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Choi\Desktop\tutorials\build\examples\ExampleBrowser\CMakeFiles\generate.stamp is up-to-date.
+  OpenGLExampleBrowser.cpp
+c:\users\choi\desktop\bullet3-master\examples\openglwindow\TwFonts.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  OpenGLGuiHelper.cpp
+C:\Users\Choi\Desktop\bullet3-master\examples\ExampleBrowser\OpenGLGuiHelper.cpp(347): warning C4316: 'MyDebugDrawer': object allocated on the heap may not be aligned 16
+  GL_ShapeDrawer.cpp
+  CollisionShape2TriangleMesh.cpp
+  b3Clock.cpp
+  b3ResourcePath.cpp
+  GraphingTexture.cpp
+  GwenParameterInterface.cpp
+c:\users\choi\desktop\bullet3-master\examples\openglwindow\TwFonts.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  GwenProfileWindow.cpp
+c:\users\choi\desktop\bullet3-master\examples\openglwindow\TwFonts.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  GwenTextureWindow.cpp
+c:\users\choi\desktop\bullet3-master\examples\openglwindow\TwFonts.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  gwenUserInterface.cpp
+c:\users\choi\desktop\bullet3-master\examples\openglwindow\TwFonts.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\Choi\Desktop\bullet3-master\examples\ExampleBrowser\GwenGUISupport\gwenUserInterface.cpp(652): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  BulletExampleBrowserLib.vcxproj -> C:\Users\Choi\Desktop\tutorials\build\lib\Debug\BulletExampleBrowserLib_Debug.lib
